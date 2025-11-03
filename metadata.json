@@ -1,0 +1,5 @@
+{
+  "name": "Aesthetic Progression",
+  "description": "A digital companion to track and progress a specific 4-day workout routine. It automates rep target calculations, provides data-driven feedback, and allows for detailed history management and data export.",
+  "requestFramePermissions": []
+}
